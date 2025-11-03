@@ -26,9 +26,9 @@ Se utilizaron datos históricos de compras, categorías de producto, ubicación,
 - Matplotlib
 
 ## Flujo del análisis
-1. Carga y limpieza de datos.
+1. Carga de datos
 2. Agrupación por categoría y tienda para conteo de ventas.
-3. Cálculo de ingresos totales:  
+3. Cálculo de ingresos totales 
 4. Cálculo de calificación promedio por tienda.
 5. Cálculo de costo de envío promedio.
 6. Visualización:
